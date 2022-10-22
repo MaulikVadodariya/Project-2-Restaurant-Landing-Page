@@ -4,6 +4,8 @@
 
 By Maulik Vadodariya
 
+## [Link to the live Project](https://restaurant-bar-page.netlify.app/)
+
 ![Completed Website](.\readme-images\ScreenShot-20221022190655.png)
 
 ## What I learned from this Project?
