@@ -1,10 +1,10 @@
-# HTML ![](./readme-images/html-5-img.png) and CSS ![](./readme-images/css-3-img.png)
+# HTML ![](https://restaurant-bar-page.netlify.app/assets/readme-images/html-5-img.png) and CSS ![](https://restaurant-bar-page.netlify.app/assets/readme-images/css-3-img.png)
 
 # Project 2 - Restaurant Landing Page ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
 By Maulik Vadodariya
 
-## [Link to the live Project](https://restaurant-bar-page.netlify.app/)
+## [Link to the live Project](https://restaurant-bar-page.netlify.app/assets/readme-images/ScreenShot-20221022190655.png)
 
 ![Completed Website](./readme-images/ScreenShot-20221022190655.png)
 
